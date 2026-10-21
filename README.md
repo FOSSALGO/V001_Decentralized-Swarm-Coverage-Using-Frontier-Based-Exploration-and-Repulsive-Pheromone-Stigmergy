@@ -1,4 +1,3 @@
-# V001_Decentralized-Swarm-Coverage-Using-Frontier-Based-Exploration-and-Repulsive-Pheromone-Stigmergy
 # Decentralized Swarm Coverage Using Frontier-Based Exploration and Repulsive Pheromone Stigmergy
 
 **Technical Source-Code Documentation — Diagnostic Patch v1.1a (frozen research algorithm)**  
